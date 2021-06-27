@@ -1,3 +1,4 @@
+# WinForms_Contacts
 A windows forms project developed in C#. It manage a list of contacts, allowing CRUD operations on a SQL database
 
 👋 Hi, I’m Natalia Saad 
